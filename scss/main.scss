@@ -210,7 +210,7 @@ img {
             display: grid;
             grid-template-areas:
                 'bioimage bio bio'
-                'aw1 aw2 aw3';
+                'aw1 aw1 aw1';
             grid-gap: 1.2rem;
         }
     // Grid Area
@@ -308,9 +308,8 @@ img {
         .section-title{
             margin-top: 3rem;
         }
-        
+
         .text-fields {
-            
             display: grid;
             grid-template-areas: 
                 'name email'
