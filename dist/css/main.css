@@ -98,7 +98,7 @@ input[class^='btn-']:hover {
 
 .item {
   position: relative;
-  background: #ffbc00;
+  /* background: #ffbc00; */
   overflow: hidden; }
   .item::after {
     content: '';
@@ -222,7 +222,7 @@ img {
   color: #fff; }
   #header-home .header-content {
     text-align: center;
-    padding-top: 20%; }
+    padding-top: 5%;}
     #header-home .header-content h1 {
       font-size: 4rem;
       line-height: 1.2; }
@@ -326,7 +326,7 @@ img {
 
 #about-b .progress {
   overflow: hidden;
-  height: 20px;
+  height: 100%;
   background: #ccc;
   border-radius: 5px;
   margin-bottom: 0.6rem; }
