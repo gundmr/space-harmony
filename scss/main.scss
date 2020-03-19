@@ -212,6 +212,7 @@ img {
             display: grid;
             grid-template-areas:
                 'bioimage bio bio'
+                'aw1 aw1 aw1'
                 'aw1 aw1 aw1';
             grid-gap: 1.2rem;
         }
@@ -234,10 +235,22 @@ img {
     .award-3 {
         grid-area: aw3;
     }
+    .award-4 {
+        grid-area: aw4;
+    }
+    .award-5 {
+        grid-area: aw5;
+    }
+    .award-6 {
+        grid-area: aw6;
+    }
 
     .award-1 .fas,
     .award-2 .fas,
-    .award-3 .fas {
+    .award-3 .fas,
+    .award-4 .fas,
+    .award-5 .fas,
+    .award-6 .fas {
         color: $main-color;
         border: 1rem;
     }
