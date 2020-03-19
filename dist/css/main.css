@@ -332,8 +332,7 @@ img {
 #about-a .award-3 .fas,
 #about-a .award-4 .fas,
 #about-a .award-5 .fas,
-#about-a .award-6
- .fas {
+#about-a .award-6 .fas {
   color: #ffbc00;
   border: 1rem; }
 
@@ -472,7 +471,7 @@ img {
   #home-b .stats div {
     padding: 2rem 0 1rem 0; }
   #about-a .about-info {
-    grid-template-areas: 'bioimage' 'bio' 'aw1' 'aw2' 'aw3'; }
+    grid-template-areas: 'bioimage' 'bio' 'aw1' 'aw2' 'aw3' 'aw4' 'aw5' 'aw6'; }
   #about-c {
     display: none; }
   #contact-a .text-fields {
