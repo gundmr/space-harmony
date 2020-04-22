@@ -191,7 +191,7 @@ img {
 #logo {
   width: 100%;
   height: 50%;
-  filter: brightness(.1);
+  filter: contrast(200%) saturate(50%);
   text-transform: uppercase; 
   padding-top: 10%;
   margin: auto; }
